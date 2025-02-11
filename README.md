@@ -1,6 +1,6 @@
 # 📌 mp3 Player
 
-**mp3 Player** projesi, [Öğrenim ] için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**mp3 Player** projesi, için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
 
 ![Proje Görseli](mp3-player-gif.gif)  
 
