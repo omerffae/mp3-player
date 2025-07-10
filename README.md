@@ -1,22 +1,22 @@
 # 📌 mp3 Player
 
-**mp3 Player** projesi, için oluşturulmuş açık kaynaklı bir yazılımdır. 🚀  
+**mp3 Player** project is an open-source software created for playing mp3 files. 🚀  
 
-![Proje Görseli](mp3-player-gif.gif)  
-
----
-
-## 🛠️ Özellikler
-
-- 🔹 **Özellik 1**: HTML5, CSS3 vs JS ile yazıldı .  
-- 🔹 **Özellik 2**: Görseller mevcut.  
-- 🔹 **Özellik 3**: Full responsive tasarımdır.  
+![Project Preview](mp3-player-gif.gif)  
 
 ---
 
-## 📚 Kurulum
+## 🛠️ Features
 
-1. Bu projeyi bilgisayarınıza klonlayın:  
+- 🔹 **Feature 1**: Built with HTML5, CSS3, and JS.  
+- 🔹 **Feature 2**: Includes images.  
+- 🔹 **Feature 3**: Fully responsive design.  
+
+---
+
+## 📚 Installation
+
+1. Clone this project to your computer:  
    ```bash
-   cd Klasör adı
+   cd [Folder Name]
    git clone https://github.com/omerffae/mp3-player.git
